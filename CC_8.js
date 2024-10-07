@@ -8,7 +8,7 @@ class Employee {
     }
 
     getDetails() {
-        return `${this.name}, ${this.position}, Salary: $${this.salary}`;
+        return `${this.name}, ${this.position}, ${this.department}, ${this.salary}`;
     }
 }
 
