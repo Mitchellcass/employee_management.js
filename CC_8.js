@@ -12,3 +12,4 @@ class Employee {
     }
 }
 
+// will study more, took too long looking over notes.
